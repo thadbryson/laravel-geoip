@@ -1,3 +1,8 @@
+# Archived
+
+This repository is archived. Please use the repository this was forked from. 
+[Torann/laravel-geoip](https://github.com/Torann/laravel-geoip)
+
 # GeoIP for Laravel
 
 [![Build Status](https://travis-ci.org/Torann/laravel-geoip.svg?branch=master)](https://travis-ci.org/Torann/laravel-geoip)
